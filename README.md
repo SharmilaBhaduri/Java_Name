@@ -3,7 +3,7 @@
 Demo File for Java and Practice for 
 
   <head>
-  <title> Java (JDK) </title> 
+ Java (JDK) 
 </head>
 <br>
 <b> push </b>
